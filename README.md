@@ -45,9 +45,6 @@ https://github.com/thanu20/age-calculator
 
 
 
- 📸 Screenshot 
- [Age Calculator Screenshot](ss.png)
-
 
 
 📂 Folder Structure
@@ -56,7 +53,6 @@ age-calculator/
 ├── style.css → Stylesheet
 ├── script.js → JavaScript logic
 ├── bg.jpg → Background image
-├── screenshot.png → Optional screenshot
 └── README.md → This file
 
 

@@ -1,68 +1,77 @@
-🎉 Age Calculator
+ 🎉 Age Calculator
 
-This is a fun and interactive Age Calculator built using HTML, CSS, and JavaScript.  
-It helps users calculate their exact age in years, months, and days just by selecting their date of birth.
+This is a fun and interactive Age Calculator built using HTML, CSS, and JavaScript, enhanced with Luxon and jQuery UI Datepicker.  
+It helps users calculate their exact age in years, months, and days with a friendly, glowing message and smooth user interface.
 
-I created this as a beginner-friendly frontend project to sharpen my web development skills and explore DOM manipulation in JavaScript. I also added custom styling, a background image, and a glowing animated result message to make the experience more engaging and fun! 🥳
-
- 🚀 Features
-
-- Simple and clean user interface
-- Accurate age calculation based on today's date
-- Cool background image and smooth styling
-- Fun emoji-based messages and glowing animated text
-- Fully responsive design — works well on both desktop and mobile
+I created this as a beginner-to-intermediate frontend project to explore DOM manipulation, date libraries, and custom datepickers. I also added custom styling, a background image, and animations to make it engaging and modern. 🥳
 
 
 
-🛠️ Technologies Used
+Project URLs (as required)
 
-- HTML5 – for the structure
-- CSS3 – for styling and layout
-- JavaScript – for age calculation logic and interactivity
-
-
-
-📸 Screenshots
-![Age Calculator Screenshot](ss.png)
-
-
-
----
-
-📂 Folder Structure
-
-
-age-calculator/
-├── index.html        → Main webpage
-├── style.css         → Stylesheet
-├── script.js         → JavaScript logic
-├── bg.jpg            → Background image
-└── README.md         → This file
-
-
-🌐 Live Demo (If hosted)
-
-👉 [Click here to see the live version](https://thanu20.github.io/age-calculator/)  
-This is the hosted version of the Age Calculator using GitHub Pages.
-
- 🙋‍♀️ About Me
-
-I’m Linganaboina Thanuja, a passionate Computer Science graduate interested in web development, cybersecurity, and creating user-friendly applications.  
-This was a fun project to apply my frontend skills in a creative way. 😊
-
-
-Live Project URL:  
+Live Project URL: 
 https://thanu20.github.io/age-calculator/
 
 GitHub Repository URL:  
 https://github.com/thanu20/age-calculator
 
 
+🚀 Features
+
+- Simple and clean user interface
+- Custom JavaScript Datepicker (not HTML5 default)
+- Accurate age calculation using Luxon (years, months, and days)
+- Validates invalid or future birthdates
+- Glowing result text and emojis 🎉
+- Fully responsive and mobile-friendly
+
+🛠️ Technologies & Libraries Used
+
+- HTML5 – structure and layout
+- CSS3 – custom styling and animations
+- JavaScript – logic and DOM handling
+- [Luxon](https://moment.github.io/luxon/) – for handling date/time calculations
+- [jQuery UI Datepicker](https://jqueryui.com/datepicker/) – for a custom date selector
+
+
+
+ 📦 How to Run the Project
+
+1. Clone or download this repository
+2. Open `index.html` in any browser (no setup needed)
+3. Select your date of birth using the calendar
+4. Click "Calculate Age" to see your exact age
+5. Make sure you're connected to the internet to load Luxon & jQuery from CDN
+
+
+
+ 📸 Screenshot 
+ [Age Calculator Screenshot](ss.png)
+
+
+
+📂 Folder Structure
+age-calculator/
+├── index.html → Main webpage
+├── style.css → Stylesheet
+├── script.js → JavaScript logic
+├── bg.jpg → Background image
+├── screenshot.png → Optional screenshot
+└── README.md → This file
+
+
+🙋‍♀️ About Me
+
+I’m Linganaboina Thanuja, a Computer Science graduate passionate about web development, UI design, and building creative tools.  
+This project helped me learn how to integrate external libraries and build real-world browser apps using modern JavaScript.
 
 
 
 📬 Feedback
 
-If you have suggestions or improvements, feel free to open an issue or connect with me on GitHub!
+If you have any suggestions or want to collaborate, feel free to raise an issue or connect with me via GitHub.
+
+
+
+
 

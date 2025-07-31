@@ -24,8 +24,9 @@ I created this as a beginner-friendly frontend project to sharpen my web develop
 
 
 📸 Screenshots
+![Age Calculator Screenshot](ss.png)
 
-> *(You can add screenshots if you'd like, or upload later)*
+
 
 ---
 

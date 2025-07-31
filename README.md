@@ -7,14 +7,16 @@ I created this as a beginner-to-intermediate frontend project to explore DOM man
 
 
 
-Project URLs (as required)
+Project URLs (Required)
 
-Live Project URL: 
+🔗 Live Demo (GitHub Pages):  
 https://thanu20.github.io/age-calculator/
 
-GitHub Repository URL:  
+🔗 GitHub Repository: 
 https://github.com/thanu20/age-calculator
 
+🔗 Original Project Page on roadmap.sh:  
+https://roadmap.sh/projects/age-calculator
 
 🚀 Features
 

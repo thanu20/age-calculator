@@ -51,16 +51,17 @@ This is the hosted version of the Age Calculator using GitHub Pages.
 I’m Linganaboina Thanuja, a passionate Computer Science graduate interested in web development, cybersecurity, and creating user-friendly applications.  
 This was a fun project to apply my frontend skills in a creative way. 😊
 
-🌐 Live Project Demo
+✅ Project Live URL
 
-👉 [Click here to see the live version](https://thanu20.github.io/age-calculator/)
-
-📁 GitHub Repository
-
-🔗 [Project GitHub Repo](https://github.com/thanu20/age-calculator)
+🔗 https://thanu20.github.io/age-calculator/
 
 
-GitHub: [@thanu20](https://github.com/thanu20)
+
+📁 GitHub Repository URL
+
+🔗 https://github.com/thanu20/age-calculator
+
+
 
 📬 Feedback
 
